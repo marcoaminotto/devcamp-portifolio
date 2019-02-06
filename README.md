@@ -1,6 +1,6 @@
 # Marco Echevestre Portfolio Application
 
- >This is a Ruby on Rails 5 pplication that i will be using to show my skills and somethings about me.
+ >This is a Ruby on Rails 5 application that i will be using to show my skills and somethings about me.
 
 ### Features
 
